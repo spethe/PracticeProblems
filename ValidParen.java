@@ -1,4 +1,4 @@
-class Solution {
+class ValidParen {
     public boolean isValid(String s) {
         //If length is odd or 0
         if(s.length() % 2 != 0){
